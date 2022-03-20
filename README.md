@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Order Summary Component Solution](https://github.com/sclauguico/order-summary-component)
-- Live Site URL: [Live Project Page](https://sclauguico.github.io/order-summary-component/)
+- Solution URL: [https://github.com/sclauguico/3-column-preview-card)
+- Live Site URL: [Live Project Page](https://sclauguico.github.io/3-column-preview-card/)
 
 ## My process
 1. Design was carefully analyzed
